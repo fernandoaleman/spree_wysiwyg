@@ -2,6 +2,10 @@
 
 This extension adds a WYSIWYG editor to the products description textarea.
 
+<p align="center">
+  <img src="https://raw.github.com/fernandoaleman/spree_wysiwyg/1-3-stable/screenshots/screenshot.png" alt="spree_wysiwyg screenshot" title="spree_wysiwyg screenshot" width="721" height="449" />
+</p>
+
 ## Installation
 
 Add this line to your application's Gemfile:
